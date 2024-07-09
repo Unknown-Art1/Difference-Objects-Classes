@@ -1,0 +1,20 @@
+// Examples of class and objects in Java
+
+// This is what a class called "Worker" looks like 
+public class Worker {
+
+    // Establishes variables for Salary and job title in class 
+    int salary = 35000;
+    String jobtitle = "Assistant";
+
+    public static void main(String args[]) {
+      
+      // Creates object of worker class called "Assistant"
+      Worker Assistant = new Worker();
+      
+      // Prints out job title based on class information
+      System.out.println(Assistant.jobtitle);
+      // Prints out salary based on class information
+      System.out.println(Assistant.salary);
+    }
+}
