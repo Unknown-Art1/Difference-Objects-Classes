@@ -7,3 +7,5 @@ One way classes and objects are different from one another is that objects act a
 Another way classes and objects are different from one another is that objects “allocate memory when created” since they are an actual instance of the class being put in action, while classes “don’t allocate memory” since they are just providing the description of what the object should do and nothing code wise has been put into action just yet in the program (Difference Between Object And Class).
 
 A final way classes and objects are different from one another is that objects can “be manipulated while classes cannot since they aren’t available in the memory of the program,” (Difference Between Object And Class). Since classes don’t allocate memory when created the program can’t go back and manipulate it later on to make any changes to it while its running, however since the creation of object allocates memory this allows them to be easily manipulated in a way you can’t when using classes. 
+
+References: “Difference between Object and Class.” GeeksforGeeks, GeeksforGeeks, 2 Nov. 2023, www.geeksforgeeks.org/difference-between-class-and-object/. 
