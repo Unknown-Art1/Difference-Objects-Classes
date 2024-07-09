@@ -10,11 +10,11 @@ public class Worker {
     public static void main(String args[]) {
       
       // Creates object of worker class called "Assistant"
-      Worker Assistant = new Worker();
+      Worker assistant = new Worker();
       
       // Prints out job title based on class information
-      System.out.println(Assistant.jobtitle);
+      System.out.println(assistant.jobtitle);
       // Prints out salary based on class information
-      System.out.println(Assistant.salary);
+      System.out.println(assistant.salary);
     }
 }
